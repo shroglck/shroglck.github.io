@@ -8,13 +8,11 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>IIT Kanpur</p>
-    <p>Kanpur </p>
-    <p>Lucknow</p>
+    <p>University of California San Diego</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a senior undergraduate in the department of aerospace engineering at IIT Kapur. My main research interests lie in the field of computer vision. speicifically I focus on learning representation which offer more explainability and are more genralizable.
+My research focuses on developing multimodal foundation models capable of complex temporal reasoning to build intelligent, general-purpose agents. I am interested in designing novel architectures and training strategies that enable models to understand, plan, and act in dynamic environments, with a particular em phasis on enhancing robustness, generalization, and corrective behavior.
