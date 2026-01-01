@@ -18,12 +18,12 @@
   contents:
     - title: Cross-Embodiment Laws for Robot Manipulation
       institution: Research Intern with Professor Hao Su
-      year: November 2025 - Present
+      year: Nov 2025 - 
       description:
         - "Key Contribution: Developing a pipeline for scaling Reinforcement Learning (RL) across diverse robot embodiments using a single policy. Designed a novel architecture improving cross-embodiment generalization by 10%, currently working on developing novel representations for robots."
     - title: Controllable Image Generation via Joint Distribution Learning
       institution: Research Intern with Professor Zhuowen Tu
-      year: April 2025 - Present
+      year: Apr 2025 - 
       description:
         - "Key Contribution: Developing a novel curriculum learning strategy to enforce layout-based controllability in diffusion models enabling development of controlled generative models."
     - title: Generalist Vision-Language-Action (VLA) Models for Robotics
