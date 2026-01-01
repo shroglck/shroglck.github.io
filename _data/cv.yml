@@ -55,7 +55,7 @@
       description: "S. Grover, S. Aggarwal, D. Srivastav, Z. Tu"
     - title: "Enhancing Generalization in VLA Models by Preserving Pretrained Representations"
       year: Under Review
-      description: "S. Grover, A. Gopalkrishnan, B. Ai, H. I. Christensen, H. Su, X. Li"
+      description: "S. Grover, A. Gopalkrishnan, Bo Ai, H. I. Christensen, H. Su, Xuanlin Li"
     - title: "Navigating Hallucinations for Reasoning of Unintentional Activities"
       year: EMNLP 2024
       description: "S. Grover, V. Vineet, Y. S. Rawat"
