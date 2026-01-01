@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: https://via.placeholder.com/150
+  image: assets/img/prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
     <p>University of California San Diego</p>
