@@ -3,53 +3,61 @@
   contents:
     - title: MS in Computer Science
       institution: University of California San Diego
-      year: 2024 - 2026 (Expected)
+      year: Sept 2024 - June 2026 (Expected)
       description:
         - "Specialization: Artificial Intelligence and Machine Learning"
         - "GPA: 4.0/4.0"
     - title: B.Tech in Aerospace Engineering, Minor in Machine Learning
       institution: Indian Institute of Technology Kanpur
-      year: 2019 - 2023
+      year: July 2019 - May 2023
       description:
         - "CPI: 8.9/10"
 
-- title: Research Experience
+- title: Research Projects
   type: time_table
   contents:
-    - title: Research Intern
-      institution: Professor Zhuowen Tu
-      year: Jan 2025 - Present
+    - title: Cross-Embodiment Laws for Robot Manipulation
+      institution: Research Intern with Professor Hao Su
+      year: November 2025 - Present
       description:
-        - "Developing a novel curriculum learning strategy to enforce layout-based controllability in diffusion models enabling developement of controlled generative models."
-    - title: Research Intern
-      institution: Professor Hao Su
+        - "Key Contribution: Developing a pipeline for scaling Reinforcement Learning (RL) across diverse robot embodiments using a single policy. Designed a novel architecture improving cross-embodiment generalization by 10%, currently working on developing novel representations for robots."
+    - title: Controllable Image Generation via Joint Distribution Learning
+      institution: Research Intern with Professor Zhuowen Tu
+      year: April 2025 - Present
+      description:
+        - "Key Contribution: Developing a novel curriculum learning strategy to enforce layout-based controllability in diffusion models enabling development of controlled generative models."
+    - title: Generalist Vision-Language-Action (VLA) Models for Robotics
+      institution: Research Intern with Professor Hao Su
       year: June 2024 - Dec 2024
       description:
-        - "Introduced a dual-encoder VLA architecture with a language-aligned action tokenizer that preserves pretrained VLM features, boosting generalization and increasing task success by 40% over SOTA baselines."
-    - title: Research Intern
-      institution: Professor Yogesh Rawat and Vibhav Vineet
-      year: Feb 2024 - June 2024
+        - "Key Contribution: Introduced a dual-encoder VLA architecture with a language-aligned action tokenizer that preserves pretrained VLM features, boosting generalization and increasing task success by 40% over SOTA baselines."
+    - title: Benchmarking and Enhancing Corrective Sequential Planning in VLMs
+      institution: Research Intern with Professor Yogesh Rawat and Vibhav Vineet
+      year: Feb 2024 - March 2025
       description:
-        - "Created the CosPlan benchmark for corrective sequential planning and proposed the Scene Graph Incremental (SGI) update method, a novel training-free technique that improves error correction by 5.2%."
-    - title: Research Intern
-      institution: Professor Yogesh Rawat and Vibhav Vineet
+        - "Key Contribution: Created the CosPlan benchmark for corrective sequential planning and proposed the Scene Graph Incremental (SGI) update method, a novel training-free technique that improves error correction by 5.2%."
+    - title: Improving Temporal Reasoning by Mitigating Hallucinations
+      institution: Research Intern with Professor Yogesh Rawat and Vibhav Vineet
       year: July 2023 - Feb 2024
       description:
-        - "Proposed the Dream of Thoughts (DoT) prompting technique, a novel multi-step reasoning approach that navigates model hallucinations to significantly improve the understanding of activity transitions."
-    - title: Research Intern
-      institution: Professor Yogesh Rawat and Vibhav Vineet
+        - "Key Contribution: Proposed the Dream of Thoughts (DoT) prompting technique, a novel multi-step reasoning approach that navigates model hallucinations to significantly improve the understanding of activity transitions."
+    - title: Robust Video Action Recognition under Occlusion
+      institution: Research Intern with Professor Yogesh Rawat and Vibhav Vineet
       year: July 2023 - Feb 2024
       description:
-        - "Designed the CTx-Net compositional architecture for robust video understanding and introduced three benchmark datasets to systematically study and evaluate model performance under occlusion."
+        - "Key Contribution: Designed the CTx-Net compositional architecture for robust video understanding and introduced three benchmark datasets to systematically study and evaluate model performance under occlusion."
 
 - title: Publications
   type: time_table
   contents:
+    - title: "CoDiffusion: Harmonizing Layouts and Image Generation through Joint Diffusion"
+      year: Under Review
+      description: "S. Grover, S. Aggarwal, D. Srivastav, Z. Tu"
     - title: "Enhancing Generalization in VLA Models by Preserving Pretrained Representations"
       year: Under Review
       description: "S. Grover, A. Gopalkrishnan, B. Ai, H. I. Christensen, H. Su, X. Li"
     - title: "Navigating Hallucinations for Reasoning of Unintentional Activities"
-      year: EMNLP 2024(Findings)
+      year: EMNLP 2024
       description: "S. Grover, V. Vineet, Y. S. Rawat"
     - title: "CosPlan: A Benchmark for Corrective Sequential Planning"
       year: Under Review
@@ -83,17 +91,9 @@
         - Docker
         - Slurm
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2023
-      items: 
-        - "B.Tech Degree with Distinction (Mathematics & Computing), IIT Kanpur"
-    - year: 2022
-      items:
-        - "Academic Excellence Award, IIT Kanpur"
-
-- title: Academic Service
+- title: Awards & Honors
   type: list
   contents:
-    - "Reviewer: NeurIPS 2025"
+    - "Academic Excellence Award, IIT Kanpur (2022)"
+    - "B.Tech Degree with Distinction, IIT Kanpur (2023)"
+    - "Reviewer: NeurIPS, CVPR"
