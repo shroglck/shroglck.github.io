@@ -8,7 +8,8 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>University of California San Diego</p>
+    <p>Visiting Researcher, PRISM Lab</p>
+    <p>Princeton University</p>
     <p>shgrover@ucsd.edu | +1 (619) 953-7137</p>
 
 news: false  # includes a list of news items
