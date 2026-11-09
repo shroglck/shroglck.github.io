@@ -188,6 +188,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - _posts  # theme sample blog posts; remove this line when you write your own posts
 keep_files:
   - CNAME
   - .nojekyll
@@ -212,6 +213,19 @@ plugins:
 defaults:
   - scope:
       path: "assets/**/*.*"
+    values:
+      sitemap: false
+  # Placeholder theme pages: keep them out of Google's sitemap
+  - scope:
+      path: "_pages/teaching.md"
+    values:
+      sitemap: false
+  - scope:
+      path: "_pages/dropdown.md"
+    values:
+      sitemap: false
+  - scope:
+      path: "_pages/repositories.md"
     values:
       sitemap: false
 
