@@ -1,7 +1,5 @@
----
-permalink: /robots.txt
----
 User-agent: *
-Disallow:
+Allow: /
 
-Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
+# This site moved to https://shresthgrover.github.io/
+Sitemap: https://shresthgrover.github.io/sitemap.xml
